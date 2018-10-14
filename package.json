@@ -1,0 +1,16 @@
+{
+  "name": "vs-js-protect",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Vivek Sinha <viveksinha461@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "bluebird": "3.5.2",
+    "javascript-obfuscator": "0.18.1",
+    "lodash": "4.17.11",
+    "mkdirp": "0.5.1",
+    "recursive-readdir": "2.2.2"
+  }
+}
